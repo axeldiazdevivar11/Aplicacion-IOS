@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		59FACC2A2F247DE900E9CC06 /* Ejercicio 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ejercicio 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		591BB5362F2480B500C41760 /* Ejercicio 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ejercicio 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		59FACC2C2F247DE900E9CC06 /* Ejercicio 1 */ = {
+		591BB5382F2480B500C41760 /* Ejercicio 1 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Ejercicio 1";
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		59FACC272F247DE900E9CC06 /* Frameworks */ = {
+		591BB5332F2480B400C41760 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		59FACC212F247DE900E9CC06 = {
+		591BB52D2F2480B400C41760 = {
 			isa = PBXGroup;
 			children = (
-				59FACC2C2F247DE900E9CC06 /* Ejercicio 1 */,
-				59FACC2B2F247DE900E9CC06 /* Products */,
+				591BB5382F2480B500C41760 /* Ejercicio 1 */,
+				591BB5372F2480B500C41760 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		59FACC2B2F247DE900E9CC06 /* Products */ = {
+		591BB5372F2480B500C41760 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				59FACC2A2F247DE900E9CC06 /* Ejercicio 1.app */,
+				591BB5362F2480B500C41760 /* Ejercicio 1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		59FACC292F247DE900E9CC06 /* Ejercicio 1 */ = {
+		591BB5352F2480B400C41760 /* Ejercicio 1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 59FACC382F247DEA00E9CC06 /* Build configuration list for PBXNativeTarget "Ejercicio 1" */;
+			buildConfigurationList = 591BB5412F2480B600C41760 /* Build configuration list for PBXNativeTarget "Ejercicio 1" */;
 			buildPhases = (
-				59FACC262F247DE900E9CC06 /* Sources */,
-				59FACC272F247DE900E9CC06 /* Frameworks */,
-				59FACC282F247DE900E9CC06 /* Resources */,
+				591BB5322F2480B400C41760 /* Sources */,
+				591BB5332F2480B400C41760 /* Frameworks */,
+				591BB5342F2480B400C41760 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				59FACC2C2F247DE900E9CC06 /* Ejercicio 1 */,
+				591BB5382F2480B500C41760 /* Ejercicio 1 */,
 			);
 			name = "Ejercicio 1";
 			packageProductDependencies = (
 			);
 			productName = "Ejercicio 1";
-			productReference = 59FACC2A2F247DE900E9CC06 /* Ejercicio 1.app */;
+			productReference = 591BB5362F2480B500C41760 /* Ejercicio 1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		59FACC222F247DE900E9CC06 /* Project object */ = {
+		591BB52E2F2480B400C41760 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					59FACC292F247DE900E9CC06 = {
+					591BB5352F2480B400C41760 = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 59FACC252F247DE900E9CC06 /* Build configuration list for PBXProject "Ejercicio 1" */;
+			buildConfigurationList = 591BB5312F2480B400C41760 /* Build configuration list for PBXProject "Ejercicio 1" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 59FACC212F247DE900E9CC06;
+			mainGroup = 591BB52D2F2480B400C41760;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 59FACC2B2F247DE900E9CC06 /* Products */;
+			productRefGroup = 591BB5372F2480B500C41760 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				59FACC292F247DE900E9CC06 /* Ejercicio 1 */,
+				591BB5352F2480B400C41760 /* Ejercicio 1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		59FACC282F247DE900E9CC06 /* Resources */ = {
+		591BB5342F2480B400C41760 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		59FACC262F247DE900E9CC06 /* Sources */ = {
+		591BB5322F2480B400C41760 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		59FACC362F247DEA00E9CC06 /* Debug */ = {
+		591BB53F2F2480B600C41760 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		59FACC372F247DEA00E9CC06 /* Release */ = {
+		591BB5402F2480B600C41760 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,7 +245,7 @@
 			};
 			name = Release;
 		};
-		59FACC392F247DEA00E9CC06 /* Debug */ = {
+		591BB5422F2480B600C41760 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -256,11 +256,10 @@
 				DEVELOPMENT_TEAM = QBJW4RVWAG;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -278,7 +277,7 @@
 			};
 			name = Debug;
 		};
-		59FACC3A2F247DEA00E9CC06 /* Release */ = {
+		591BB5432F2480B600C41760 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -289,11 +288,10 @@
 				DEVELOPMENT_TEAM = QBJW4RVWAG;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSMainStoryboardFile = Main;
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -314,25 +312,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		59FACC252F247DE900E9CC06 /* Build configuration list for PBXProject "Ejercicio 1" */ = {
+		591BB5312F2480B400C41760 /* Build configuration list for PBXProject "Ejercicio 1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59FACC362F247DEA00E9CC06 /* Debug */,
-				59FACC372F247DEA00E9CC06 /* Release */,
+				591BB53F2F2480B600C41760 /* Debug */,
+				591BB5402F2480B600C41760 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		59FACC382F247DEA00E9CC06 /* Build configuration list for PBXNativeTarget "Ejercicio 1" */ = {
+		591BB5412F2480B600C41760 /* Build configuration list for PBXNativeTarget "Ejercicio 1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59FACC392F247DEA00E9CC06 /* Debug */,
-				59FACC3A2F247DEA00E9CC06 /* Release */,
+				591BB5422F2480B600C41760 /* Debug */,
+				591BB5432F2480B600C41760 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 59FACC222F247DE900E9CC06 /* Project object */;
+	rootObject = 591BB52E2F2480B400C41760 /* Project object */;
 }
